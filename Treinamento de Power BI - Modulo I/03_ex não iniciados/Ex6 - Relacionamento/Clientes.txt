@@ -1,0 +1,15 @@
+Cliente Agro	UF, País	Cidade_UF_País
+Agro Ltda	Mato Grosso, Brasil	Cuiabá, MT, Brasil
+Agrolandia	Goiás, Brasil	Goiania, GO, Brasil
+Agronews	Mato Grosso do Sul, Brasil	Campo Grande, MS, Brasil
+Agropop	Rio de Janeiro, Brasil	Nova Iguaçu, RJ, Brasil
+Alimentos S.A	São Paulo, Brasil	Santos, SP, Brasil
+Crescer	Paraná, Brasil	Curitiba, PR, Brasil
+Export Agro	Pernambuco, Brasil	Olinda, PE, Brasil
+Feagro	Minas Gerais, Brasil	Contagem, MG, Brasil
+Greenagro	São Paulo, Brasil	Campinas, SP, Brasil
+Leagro	Paraíba, Brasil	Campina Grande, PB, Brasil
+Mater	Santa Catarina, Brasil	Joinville, SC, Brasil
+Proagro	Piauí, Brasil	Teresina, PI, Brasil
+Rede Agro	São Paulo, Brasil	São Paulo, SP, Brasil
+Rede Super	Rio de Janeiro, Brasil	Nova Iguaçu, RJ, Brasil

@@ -1,0 +1,11 @@
+Key_vendedor	Vendedor	Comissão(%)
+1	João	0,1
+2	Maria	0,07
+3	Sílvia	0,05
+4	Marco	0,08
+5	Sérgio	0,1
+6	Victor	0,09
+7	Calor	0,07
+8	Alfredo	0,07
+9	Jair	0,06
+10	Pedro	0,05

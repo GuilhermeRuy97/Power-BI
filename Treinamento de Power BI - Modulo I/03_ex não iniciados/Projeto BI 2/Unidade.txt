@@ -1,0 +1,31 @@
+COD_UNIDADE	REGIÃO	UF	UNIDADE
+110	Sudeste	São Paulo	São Paulo
+120	Sudeste	São Paulo	Campinas
+130	Sudeste	São Paulo	Osasco
+140	Sudeste	Minas Gerais	Belo Horizonte
+150	Sudeste	Minas Gerais	Divinópolis
+160	Sudeste	Minas Gerais	Contagem
+170	Sudeste	Rio de Janeiro	Rio de Janeiro
+180	Sudeste	Rio de Janeiro	Campos
+190	Sudeste	Rio de Janeiro	Petrópolis
+200	Sul	Paraná	Londrina
+210	Sul	Paraná	Curitiba
+220	Sul	Paraná	Maringá
+230	Sul	Santa Catarina	Florianópolis
+240	Sul	Santa Catarina	Joinville
+250	Sul	Santa Catarina	Criciúma
+260	Sul	Rio Grande do Sul	Porto Alegre
+270	Sul	Rio Grande do Sul	Rio Grande
+280	Sul	Rio Grande do Sul	Pelotas
+290	Centro Oeste	Goiás	Goiânia
+300	Centro Oeste	Goiás	Rio Verde
+310	Centro Oeste	Goiás	Catalão
+320	Centro Oeste	Mato Grosso	Cuiabá
+330	Centro Oeste	Mato Grosso	Sorriso
+340	Centro Oeste	Mato Grosso	Rondonópolis
+350	Nordeste	Bahia	Salvador
+360	Nordeste	Bahia	Porto Seguro
+370	Nordeste	Bahia	Vitória da Conquista
+380	Nordeste	Maranhão	São Luiz
+390	Nordeste	Maranhão	Imperatriz
+400	Nordeste	Maranhão	Caxias

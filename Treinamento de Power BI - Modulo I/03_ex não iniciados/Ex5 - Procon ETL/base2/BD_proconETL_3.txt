@@ -1,0 +1,453 @@
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+ID SOLICITACAO	DATA SOLICITACAO	NOME CLIENTE	SOBRENOME CLIENTE	UF CLIENTE/CIDADE	DEPARTAMENTO	SKU/PRODUTO/CARACTERISTICAS	NUM NF/VALOR NF	REGIAO
+405264	12*10*2019	Maria_Cecília	Chapelin_Andrade	Acre/Cruzeiro do Sul	Eletroportateis	LQ12/Liquidificador-5velocidades	872149619-588,82	Norte
+395030	16*1*2019	Lavínia	Ferraz_Giácomo	Acre/Rio Branco	          Eletrônicos	NT8F/Notebook-i55GB500GB	873818326-3582,23	Norte
+197181	19*1*2019	Beatriz	D’Ávila_Fischer	Acre/Rio Branco	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	890282171-1467,6	Norte
+549999	16*6*2019	Maria Luiza	Reymond_Torres	Acre/Rio Branco	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	819814852-1467,6	Norte
+629466	28*10*2019	João Pedro	Andrade_Bongiovanni	Acre/Tarauacá	          Eletrônicos	NT8F/Notebook-i55GB500GB	883985109-3582,23	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+158801	9*3*2019	Thomas	Annenberg_Antunes	Alagoas/Arapiraca	        Eletrônicos	SP13/Celular-4G64GB	894623116-3028,9	Nordeste
+454688	23*4*2019	Maria_Cecília	Vitti_Guimarães	Alagoas/Arapiraca	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	845252873-1467,6	Nordeste
+620652	6*2*2019	Maria_Júlia	Resende_Montenegro	Alagoas/Maceió	              Eletroportateis	FP32/Ferro de passar-500Wvapor	851719729-552,42	Nordeste
+703053	30*7*2019	Catarina	Dolabella_Castiel	Alagoas/Maceió	          Eletrônicos	NT8F/Notebook-i55GB500GB	840692205-3582,23	Nordeste
+360077	2*9*2019	João Vitor	Ganzarolli_Riche	Alagoas/Maceió	        Eletrônicos	SP3X/Celular-4GB128GB	892373938-4821,03	Nordeste
+506603	30*10*2019	Isaac	Andrade_Guimarães	Alagoas/Maceió	Eletroportateis	LQ67/Liquidificador-3velocidades	880821221-302,01	Nordeste
+527220	6*4*2019	Davi Lucca	Fagundes_Bial	Alagoas/Palmeira dos Índios	        Eletrônicos	SP13/Celular-4G64GB	841767385-3028,9	Nordeste
+377930	3*4*2019	Caio	Bonner_Marques	Alagoas/Rio Largo	        Eletrônicos	SP13/Celular-4G64GB	885360595-3028,9	Nordeste
+677227	13*5*2019	Cauã	Werneck_Arantes	Alagoas/Rio Largo	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	860678768-2564,12	Nordeste
+143774	10*7*2019	Nicole	Timberg_Schmütz	Alagoas/Rio Largo	              Eletroportateis	FP02/Ferro de passar-300Wvapor	876719163-134,72	Nordeste
+149187	22*1*2019	Emanuelly	Oliveira_Maldonado	Alagoas/União dos Palmares	              Eletroportateis	FP02/Ferro de passar-300Wvapor	866143087-134,72	Nordeste
+112427	23*4*2019	Luiz_Felipe	Menezes_Ferrari	Alagoas/União dos Palmares	                   Eletrônicos	TB7A/Tablet-7,5pol	817796822-844,65	Nordeste
+216013	29*4*2019	Lavínia	Hickmann_Lambertini	Alagoas/União dos Palmares	         Eletrônicos	ST56/SmartTV-4k52pol	866164302-6074,38	Nordeste
+562967	3*7*2019	Rafaela	Giácomo_D’Ávila	Alagoas/União dos Palmares	Eletroportateis	LQ67/Liquidificador-3velocidades	821045547-302,01	Nordeste
+743643	12*7*2019	Heitor	Bernardi_Dieckmann	Alagoas/União dos Palmares	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	897008566-1467,6	Nordeste
+820902	27*2*2019	Bernardo	Castiel_Hickmann	Alagoas/União dos Palmares	           Eletrodoméstico	52SB/Fogão-4Bocas220V	832835314-966,24	Nordeste
+536811	21*12*2019	Emanuel	Schoemberger_Müller	Alagoas/União dos Palmares	                   Eletroportateis	CF67/Cafeteira-convencional	844521547-105,51	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+224953	19*5*2019	Ana Clara	Ferrari_Antunes	Amazonas/Coari	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	850151085-1581,03	Norte
+460278	31*5*2019	Gabriel	Lins_Timberg	Amazonas/Coari	                   Eletroportateis	CF16/Cafeteira-smartCafe	817120317-552,5	Norte
+326222	31*7*2019	Davi_Luiz	Campos_Albuquerque	Amazonas/Coari	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	897878353-1581,03	Norte
+601307	28*11*2019	Caio	Fagundes_Vilela	Amazonas/Coari	          Eletrônicos	NT9X/Notebook-i78GB1TB	865148460-4896,53	Norte
+347206	16*8*2019	Laura	Dolabella_Carvalho	Amazonas/Coari	           Eletrodoméstico	52SB/Fogão-4Bocas220V	834027279-966,24	Norte
+870834	6*9*2019	Pedro_novo	Resende_Close	Amazonas/Coari	                   Eletrônicos	TB7A/Tablet-7,5pol	891173199-844,65	Norte
+852595	6*11*2019	Vicente	Timberg_Santana	Amazonas/Itacoatiara	                   Eletroportateis	CF67/Cafeteira-convencional	883364247-105,51	Norte
+795064	16*6*2019	Melissa	Ferrari_Hickmann	Amazonas/Itacoatiara	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	848014489-2473,37	Norte
+184418	2*2*2019	Heloísa	Rios_Marinho	Amazonas/Manacapuru	Eletroportateis	LQ12/Liquidificador-5velocidades	839381584-588,82	Norte
+901157	25*8*2019	Maria_Luiza	Mazzaropi_Noronha	Amazonas/Manacapuru	              Eletroportateis	FP32/Ferro de passar-500Wvapor	850246767-552,42	Norte
+559780	2*10*2019	Alice	Carvalho_Sampaio	Amazonas/Manacapuru	              Eletroportateis	FP02/Ferro de passar-300Wvapor	870960496-134,72	Norte
+614121	15*11*2019	João Miguel	Bonner_Schoemberger	Amazonas/Manacapuru	                   Eletrônicos	TB47/Tablet-9,6pol	841088095-1471,23	Norte
+745914	8*11*2019	Nicole	Steves_Fischer	Amazonas/Manaus	       Eletrodoméstico	LR13/Lavadora-12kg110V	872842211-2675,99	Norte
+731016	28*8*2019	Victor_Hugo	Fagundes_Sampaio	Amazonas/Parintins	         Eletrônicos	ST56/SmartTV-4k52pol	884930491-6074,38	Norte
+159225	24*10*2019	Rafael	Werneck_Resende	Amazonas/Parintins	        Eletrônicos	SP3X/Celular-4GB128GB	838443074-4821,03	Norte
+792385	20*11*2019	Maria_Júlia	Gonçalves_Fischer	Amazonas/Parintins	                   Eletrônicos	TB7A/Tablet-7,5pol	852804404-844,65	Norte
+226584	29*1*2019	Marina	Alves_Maldonado	Amazonas/Parintins	        Eletrônicos	SP13/Celular-4G64GB	822819241-3028,9	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+892584	24*1*2019	Guilherme	Ganzarolli_Drummond	Amapa/Laranjal do Jari	              Eletroportateis	FP32/Ferro de passar-500Wvapor	858327949-552,42	Norte
+210230	1*3*2019	Daniel	Bial_Menezes	Amapa/Laranjal do Jari	                   Eletrônicos	TB47/Tablet-9,6pol	821314882-1471,23	Norte
+747993	1*4*2019	Caio	Barcellos_Carvalho	Amapa/Laranjal do Jari	        Eletrônicos	SP3X/Celular-4GB128GB	827337390-4821,03	Norte
+478694	17*7*2019	Maria_Alice	Schmütz_Chapelin	Amapa/Laranjal do Jari	                   Eletrônicos	TB47/Tablet-9,6pol	878257352-1471,23	Norte
+776718	12*5*2019	Cecília	Arantes_Gimenez	Amapa/Macapá	          Eletrônicos	NT9X/Notebook-i78GB1TB	876596437-4896,53	Norte
+863891	25*10*2019	Pietro	Arantes_Mazzaropi	Amapa/Mazagão	                   Eletroportateis	CF67/Cafeteira-convencional	845838967-105,51	Norte
+684763	13*12*2019	Heloísa	Marques_Antunes	Amapa/Mazagão	                   Eletroportateis	CF67/Cafeteira-convencional	847912976-105,51	Norte
+865137	25*1*2019	Rafael	Sanches_Figueiredo	Amapa/Mazagão	          Eletrônicos	NT9X/Notebook-i78GB1TB	890302180-4896,53	Norte
+635314	12*6*2019	Isaac	Werneck_Hickmann	Amapa/Mazagão	         Eletrônicos	ST88/SmartTV-FullHD32pol	863525821-3628,63	Norte
+800857	20*6*2019	João Lucas	Alencar_Kannenberg	Amapa/Mazagão	                   Eletroportateis	CF67/Cafeteira-convencional	897232125-105,51	Norte
+873402	17*1*2019	Maria_Alice	Lins_Moscovis	Amapa/Oiapoque	Eletroportateis	LQ67/Liquidificador-3velocidades	862350392-302,01	Norte
+869753	10*6*2019	Pedro Henrique	Schmütz_Noronha	Amapa/Oiapoque	Eletroportateis	LQ12/Liquidificador-5velocidades	899740802-588,82	Norte
+804460	11*10*2019	Murilo	Martins_Muniz	Amapa/Oiapoque	              Eletroportateis	FP32/Ferro de passar-500Wvapor	833881349-552,42	Norte
+534633	19*9*2019	Heitor	Fontenelle_Sampaio	Amapa/Oiapoque	         Eletrônicos	ST56/SmartTV-4k52pol	884957676-6074,38	Norte
+697503	23*9*2019	Pedro	Vargas_Dolabella	Amapa/Oiapoque	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	846271252-1581,03	Norte
+617313	9*6*2019	Manuela	Lins_Castiel	Amapa/Santana	           Eletrodoméstico	52SB/Fogão-4Bocas220V	835517103-966,24	Norte
+495848	7*10*2019	Gabriel	Barcelos_Santana	Amapa/Santana	         Eletrônicos	ST56/SmartTV-4k52pol	855763649-6074,38	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+872633	15*6*2019	Bianca	Annenberg_Sampaio	Bahia/Camaçari	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	889592781-2182,42	Nordeste
+890382	3*3*2019	Ana	Novaes_Timberg	Bahia/Feira de Santana	        Eletrônicos	SP13/Celular-4G64GB	896391315-3028,9	Nordeste
+290964	20*8*2019	João Pedro	Fagundes_Moscovis	Bahia/Feira de Santana	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	819646529-2182,42	Nordeste
+723014	2*4*2019	Bernardo	Lafaiete_Falabella	Bahia/Feira de Santana	       Eletrodoméstico	LR13/Lavadora-12kg110V	824427748-2675,99	Nordeste
+564664	14*8*2019	Vitor	Abravanel_Drummond	Bahia/Itabuna	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	821668240-2182,42	Nordeste
+213102	18*2*2019	Victor_Hugo	Chapelin_Johnson	Bahia/Itabuna	         Eletrônicos	ST88/SmartTV-FullHD32pol	831678524-3628,63	Nordeste
+649808	27*7*2019	Isabella	Marinho_Reymond	Bahia/Itabuna	          Eletrônicos	NT9X/Notebook-i78GB1TB	866898516-4896,53	Nordeste
+679871	1*1*2019	Ana_Laura	Lessa_Steves	Bahia/Salvador	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	847376676-5899,36	Nordeste
+120084	9*9*2019	Benício	Assunção_Evelyn	Bahia/Salvador	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	876989734-2473,37	Nordeste
+585213	3*12*2019	Maria_Cecília	Lombardi_Fernandes	Bahia/Salvador	          Eletrônicos	NT9X/Notebook-i78GB1TB	819832509-4896,53	Nordeste
+332442	30*1*2019	Maria_Clara	Steves_Alves	Bahia/Vitória da Conquista	           Eletrodoméstico	52SB/Fogão-4Bocas220V	816413722-966,24	Nordeste
+443270	11*5*2019	Luiz_Henrique	Moraes_Assunção	Bahia/Vitória da Conquista	          Eletrônicos	NT8F/Notebook-i55GB500GB	819319341-3582,23	Nordeste
+393698	12*5*2019	Maria_Júlia	Figueiredo_Lafaiete	Bahia/Vitória da Conquista	                   Eletrônicos	TB47/Tablet-9,6pol	856910741-1471,23	Nordeste
+750646	20*6*2019	Maria_Eduarda	Close_Guimarães	Bahia/Vitória da Conquista	        Eletrônicos	SP13/Celular-4G64GB	886371118-3028,9	Nordeste
+763079	15*4*2019	Cecília	Rios_Muniz	Bahia/Vitória da Conquista	                   Eletroportateis	CF16/Cafeteira-smartCafe	885946705-552,5	Nordeste
+716318	29*4*2019	Ana Luiza	Barros_Moraes	Bahia/Vitória da Conquista	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	822839469-1467,6	Nordeste
+539836	8*5*2019	Helena	Schmütz_Carvalho	Bahia/Vitória da Conquista	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	859252619-2564,12	Nordeste
+570442	7*9*2019	João Miguel	Dantas_Lafaiete	Bahia/Vitória da Conquista	                   Eletroportateis	CF67/Cafeteira-convencional	899181249-105,51	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+221550	13*3*2019	Maria Eduarda	Timberg_Carvalho	Ceara/Caucaia	              Eletroportateis	FP02/Ferro de passar-300Wvapor	875404795-134,72	Nordeste
+267763	31*8*2019	Maria Fernanda	Torres_Barros	Ceara/Caucaia	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	873804271-5899,36	Nordeste
+687076	21*2*2019	Lucca	Assunção_Vilela	Ceara/Caucaia	              Eletroportateis	FP02/Ferro de passar-300Wvapor	860212914-134,72	Nordeste
+768043	15*12*2019	Joaquim	Timberg_Close	Ceara/Caucaia	              Eletroportateis	FP32/Ferro de passar-500Wvapor	865413950-552,42	Nordeste
+580290	22*6*2019	Lorena	Assunção_Drummond	Ceara/Fortaleza	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	854988343-2564,12	Nordeste
+500527	8*1*2019	Victor_Hugo	Sheherazade_Fagundes	Ceara/Fortaleza	                   Eletroportateis	CF16/Cafeteira-smartCafe	897912541-552,5	Nordeste
+109331	16*7*2019	Thiago	Gonçalves_Barros	Ceara/Juazeiro do Norte	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	892314676-2182,42	Nordeste
+555089	7*10*2019	Ana Luiza	Mazzaropi_Alencar	Ceara/Juazeiro do Norte	           Eletrodoméstico	52SB/Fogão-4Bocas220V	864238970-966,24	Nordeste
+902912	12*12*2019	Yasmin	Duarte_Lafaiete	Ceara/Juazeiro do Norte	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	846012052-2473,37	Nordeste
+333265	9*11*2019	Giovanna	Monteiro_Abravanel	Ceara/Maracanaú	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	865166917-5899,36	Nordeste
+735606	20*1*2019	João Miguel	Bastos_Guimarães	Ceara/Maracanaú	          Eletrônicos	NT9X/Notebook-i78GB1TB	874805647-4896,53	Nordeste
+460165	8*6*2019	Maria Alice	Bastos_Barros	Ceara/Maracanaú	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	833840473-1467,6	Nordeste
+679671	24*8*2019	João	Barros_Lins	Ceara/Sobral	                   Eletrônicos	TB47/Tablet-9,6pol	877659706-1471,23	Nordeste
+347879	10*10*2019	Esther	Falabella_Kannenberg	Ceara/Sobral	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	856243944-2182,42	Nordeste
+863391	25*11*2019	Lara	Meneghel_Sampaio	Ceara/Sobral	                   Eletroportateis	CF67/Cafeteira-convencional	869447662-105,51	Nordeste
+506860	1*11*2019	Ana Júlia	Resende_Andrade	Ceara/Sobral	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	880064956-2182,42	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+892251	9*7*2019	Bernardo	Riche_Ferrari	Distrito Federal/Brasília	                   Eletroportateis	CF16/Cafeteira-smartCafe	834081134-552,5	Centro-Oeste
+218805	17*9*2019	Luiz_Gustavo	Lins_Maldonado	Distrito Federal/Brasília	          Eletrônicos	NT9X/Notebook-i78GB1TB	836113995-4896,53	Centro-Oeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+111891	25*9*2019	Cecília	Carvalho_Lombardi	Espirito Santo/Cachoeira de Itapemirim	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	897765692-1467,6	Sudeste
+533546	16*12*2019	Thiago	Alencar_Antunes	Espirito Santo/Cachoeira de Itapemirim	         Eletrônicos	ST56/SmartTV-4k52pol	842919251-6074,38	Sudeste
+193604	10*3*2019	Pietro	D’Ávila_Lombardi	Espirito Santo/Cachoeira de Itapemirim	Eletroportateis	LQ12/Liquidificador-5velocidades	841588783-588,82	Sudeste
+714772	14*1*2019	Davi_Miguel	Gonçalves_Kannenberg	Espirito Santo/Cariacica	         Eletrônicos	ST88/SmartTV-FullHD32pol	898387509-3628,63	Sudeste
+195769	25*4*2019	Maria_Alice	Barros_Meneghel	Espirito Santo/Cariacica	                   Eletroportateis	CF16/Cafeteira-smartCafe	858025002-552,5	Sudeste
+177982	27*9*2019	Vitor	Montenegro_Liberato	Espirito Santo/Cariacica	              Eletroportateis	FP32/Ferro de passar-500Wvapor	865896240-552,42	Sudeste
+620971	21*6*2019	Maria Eduarda	Schoemberger_Schumacher	Espirito Santo/Serra	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	828428567-1467,6	Sudeste
+781251	4*9*2019	Samuel	Santana_Campos	Espirito Santo/Serra	                   Eletroportateis	CF67/Cafeteira-convencional	849457696-105,51	Sudeste
+773529	22*10*2019	Maria_Eduarda	Lafaiete_Moraes	Espirito Santo/Serra	                   Eletroportateis	CF16/Cafeteira-smartCafe	815325505-552,5	Sudeste
+533246	10*7*2019	Lívia	Menezes_Menezes	Espirito Santo/Vila Velha	           Eletrodoméstico	52SB/Fogão-4Bocas220V	825455295-966,24	Sudeste
+882821	9*7*2019	Maria_Clara	Alves_Monteiro	Espirito Santo/Vila Velha	                   Eletroportateis	CF16/Cafeteira-smartCafe	875754908-552,5	Sudeste
+335186	9*9*2019	Manuela	Martins_Close	Espirito Santo/Vila Velha	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	827189376-2473,37	Sudeste
+634296	27*1*2019	Isis	Ferraz_Fernandes	Espirito Santo/Vitória	           Eletrodoméstico	52SB/Fogão-4Bocas220V	856198065-966,24	Sudeste
+441315	28*3*2019	Helena	Andrade_Alves	Espirito Santo/Vitória	          Eletrônicos	NT9X/Notebook-i78GB1TB	873578432-4896,53	Sudeste
+381095	19*9*2019	Ana Júlia	Ribeiro_Müller	Espirito Santo/Vitória	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	864472748-2564,12	Sudeste
+211262	1*6*2019	Nicole	Vargas_D’Ávila	Espirito Santo/Vitória	          Eletrônicos	NT9X/Notebook-i78GB1TB	827143757-4896,53	Sudeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+899949	18*2*2019	Letícia	Roriz_Medeiros	Goias/Anapólis	        Eletrônicos	SP13/Celular-4G64GB	845401774-3028,9	Centro-Oeste
+769211	18*2*2019	Sarah	Bial_Figueiredo	Goias/Aparecida de Goiânia	                   Eletrônicos	TB47/Tablet-9,6pol	834920361-1471,23	Centro-Oeste
+573187	3*8*2019	Davi_Luiz	Meneghel_Novaes	Goias/Aparecida de Goiânia	              Eletroportateis	FP02/Ferro de passar-300Wvapor	839784590-134,72	Centro-Oeste
+642200	4*5*2019	Clara	Kannenberg_Alves	Goias/Aparecida de Goiânia	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	892797570-1467,6	Centro-Oeste
+439328	12*9*2019	Francisco	Evelyn_Timberg	Goias/Aparecida de Goiânia	        Eletrônicos	SP3X/Celular-4GB128GB	867403366-4821,03	Centro-Oeste
+761894	13*3*2019	Isabella	Annenberg_Sanches	Goias/Goiânia	          Eletrônicos	NT9X/Notebook-i78GB1TB	845868299-4896,53	Centro-Oeste
+272076	17*1*2019	Bryan	Werneck_Menezes	Goias/Goiânia	                   Eletroportateis	CF67/Cafeteira-convencional	893653308-105,51	Centro-Oeste
+203225	5*3*2019	Davi_Miguel	Barcelos_Liberato	Goias/Goiânia	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	885611301-2473,37	Centro-Oeste
+883636	16*5*2019	Pedro	Maldonado_Maldonado	Goias/Goiânia	              Eletroportateis	FP02/Ferro de passar-300Wvapor	840182553-134,72	Centro-Oeste
+490558	29*5*2019	Nicole	Schoemberger_Noronha	Goias/Goiânia	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	832983546-1467,6	Centro-Oeste
+218453	16*11*2019	Felipe	Johnson_Gomes	Goias/Goiânia	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	892005410-1581,03	Centro-Oeste
+569835	20*12*2019	Luiz_Gustavo	Sheherazade_Drummond	Goias/Goiânia	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	847180859-1467,6	Centro-Oeste
+500351	22*1*2019	Gabriela	Johnson_Alves	Goias/Luziânia	         Eletrônicos	ST88/SmartTV-FullHD32pol	830597379-3628,63	Centro-Oeste
+284395	14*6*2019	Davi Lucca	Sheherazade_Dolabella	Goias/Luziânia	              Eletroportateis	FP32/Ferro de passar-500Wvapor	829109499-552,42	Centro-Oeste
+831875	11*9*2019	Maria	Antunes_Resende	Goias/Luziânia	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	873092140-2473,37	Centro-Oeste
+168470	14*9*2019	Yasmin	Lambertini_Menezes	Goias/Luziânia	        Eletrônicos	SP13/Celular-4G64GB	888458918-3028,9	Centro-Oeste
+483788	12*2*2019	Vicente	Gimenez_Noronha	Goias/Luziânia	        Eletrônicos	SP13/Celular-4G64GB	835473429-3028,9	Centro-Oeste
+868828	2*8*2019	Catarina	Schumacher_Moura	Goias/Luziânia	                   Eletroportateis	CF67/Cafeteira-convencional	845862855-105,51	Centro-Oeste
+468459	25*5*2019	Ana Beatriz	Sheherazade_Schmütz	Goias/Rio Verde	         Eletrônicos	ST56/SmartTV-4k52pol	855816972-6074,38	Centro-Oeste
+483779	15*8*2019	Isabelly	Ferrari_Ganzarolli	Goias/Rio Verde	        Eletrônicos	SP13/Celular-4G64GB	896518416-3028,9	Centro-Oeste
+347870	23*12*2019	Ana_Laura	Evelyn_Evelyn	Goias/Rio Verde	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	897217634-1467,6	Centro-Oeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+595137	12*9*2019	Luiza	Evelyn_Barcelos	Maranhao/Caxias	          Eletrônicos	NT9X/Notebook-i78GB1TB	839746281-4896,53	Nordeste
+478084	8*5*2019	Miguel	Guimarães_Assunção	Maranhao/Imperatriz	                   Eletrônicos	TB47/Tablet-9,6pol	881899036-1471,23	Nordeste
+308147	13*5*2019	Giovanna	Alencar_Timberg	Maranhao/Imperatriz	          Eletrônicos	NT9X/Notebook-i78GB1TB	850077792-4896,53	Nordeste
+221144	1*7*2019	Pedro Henrique	Chapelin_Riche	Maranhao/Imperatriz	       Eletrodoméstico	LR13/Lavadora-12kg110V	872203502-2675,99	Nordeste
+716688	17*7*2019	Laura	Bial_Duarte	Maranhao/Imperatriz	Eletroportateis	LQ67/Liquidificador-3velocidades	872445484-302,01	Nordeste
+492494	4*8*2019	Clara	Lombardi_Andrade	Maranhao/Imperatriz	          Eletrônicos	NT9X/Notebook-i78GB1TB	828085551-4896,53	Nordeste
+266424	16*10*2019	Francisco	Lafaiete_Gonçalves	Maranhao/Imperatriz	           Eletrodoméstico	52SB/Fogão-4Bocas220V	832538390-966,24	Nordeste
+645784	9*2*2019	Felipe	Riche_Andrade	Maranhao/São José do Ribamar	              Eletroportateis	FP32/Ferro de passar-500Wvapor	824808149-552,42	Nordeste
+376480	24*9*2019	Pedro Henrique	Ganzarolli_Maldonado	Maranhao/São José do Ribamar	       Eletrodoméstico	LR13/Lavadora-12kg110V	824645731-2675,99	Nordeste
+181464	22*1*2019	Ana Júlia	Carvalho_Lombardi	Maranhao/São José do Ribamar	              Eletroportateis	FP32/Ferro de passar-500Wvapor	850686920-552,42	Nordeste
+303754	25*10*2019	Bianca	Falabella_Figueiredo	Maranhao/São José do Ribamar	Eletroportateis	LQ67/Liquidificador-3velocidades	895164129-302,01	Nordeste
+126691	23*2*2019	Isis	Reymond_Bastos	Maranhao/São Luís	              Eletroportateis	FP32/Ferro de passar-500Wvapor	888070031-552,42	Nordeste
+788748	17*1*2019	Caio	Dolabella_Alves	Maranhao/Timon	        Eletrônicos	SP13/Celular-4G64GB	865214468-3028,9	Nordeste
+569795	24*3*2019	Luiza	Alencar_Dieckmann	Maranhao/Timon	         Eletrônicos	ST88/SmartTV-FullHD32pol	887237854-3628,63	Nordeste
+306653	25*10*2019	Vicente	Andrade_Martins	Maranhao/Timon	Eletroportateis	LQ67/Liquidificador-3velocidades	881720702-302,01	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+474652	27*2*2019	Luiza	Guimarães_Meneghel	Minas Gerais/Belo Horizonte	         Eletrônicos	ST56/SmartTV-4k52pol	846477825-6074,38	Sudeste
+341217	29*10*2019	João Miguel	Sanches_Bittencourt	Minas Gerais/Belo Horizonte	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	834721476-1581,03	Sudeste
+584553	2*3*2019	Pedro Henrique	Evelyn_Cavalcante	Minas Gerais/Belo Horizonte	        Eletrônicos	SP13/Celular-4G64GB	883431619-3028,9	Sudeste
+752905	23*6*2019	Enzo	Dieckmann_Abravanel	Minas Gerais/Betim	          Eletrônicos	NT8F/Notebook-i55GB500GB	830365994-3582,23	Sudeste
+112024	2*12*2019	Pedro_novo	Albuquerque_Carvalho	Minas Gerais/Betim	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	859301601-2473,37	Sudeste
+181337	2*12*2019	Victor_Hugo	Cavalcante_Cavalcante	Minas Gerais/Betim	          Eletrônicos	NT9X/Notebook-i78GB1TB	876670775-4896,53	Sudeste
+492068	15*7*2019	Bryan	Schoemberger_Lessa	Minas Gerais/Betim	       Eletrodoméstico	LR13/Lavadora-12kg110V	868624062-2675,99	Sudeste
+816463	22*11*2019	Gabriela	Rios_Marinho	Minas Gerais/Betim	         Eletrônicos	ST88/SmartTV-FullHD32pol	870361989-3628,63	Sudeste
+379044	7*4*2019	Joaquim	Marinho_Sheherazade	Minas Gerais/Contagem	         Eletrônicos	ST88/SmartTV-FullHD32pol	827657272-3628,63	Sudeste
+759950	1*2*2019	Larissa	Schumacher_Martins	Minas Gerais/Juiz de Fora	         Eletrônicos	ST88/SmartTV-FullHD32pol	880797024-3628,63	Sudeste
+134902	25*6*2019	Pedro	Gimenez_Giácomo	Minas Gerais/Juiz de Fora	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	866444828-2473,37	Sudeste
+851478	21*7*2019	Letícia	Reymond_Boaventura	Minas Gerais/Juiz de Fora	                   Eletroportateis	CF16/Cafeteira-smartCafe	853932526-552,5	Sudeste
+765058	20*10*2019	Bryan	Dolabella_Gimenez	Minas Gerais/Uberlândia	        Eletrônicos	SP3X/Celular-4GB128GB	842666507-4821,03	Sudeste
+805042	12*11*2019	Emanuel	Reymond_Santana	Minas Gerais/Uberlândia	        Eletrônicos	SP3X/Celular-4GB128GB	823978732-4821,03	Sudeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+224731	13*3*2019	Valentina	Campos_Alves	Mato Grosso do Sul/Campo Grande	                   Eletrônicos	TB47/Tablet-9,6pol	871271892-1471,23	Centro-Oeste
+799264	27*6*2019	Henrique	Riche_Duarte	Mato Grosso do Sul/Campo Grande	                   Eletroportateis	CF67/Cafeteira-convencional	875150530-105,51	Centro-Oeste
+475121	17*5*2019	Murilo	Marinho_Dieckmann	Mato Grosso do Sul/Campo Grande	        Eletrônicos	SP13/Celular-4G64GB	822363096-3028,9	Centro-Oeste
+725085	11*8*2019	Amanda	Moura_Hickmann	Mato Grosso do Sul/Campo Grande	Eletroportateis	LQ67/Liquidificador-3velocidades	869369272-302,01	Centro-Oeste
+562990	21*8*2019	Manuela	Bonner_Barcelos	Mato Grosso do Sul/Campo Grande	                   Eletrônicos	TB7A/Tablet-7,5pol	890151803-844,65	Centro-Oeste
+538162	4*7*2019	Isis	Liberato_Moscovis	Mato Grosso do Sul/Corumbá	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	857118745-2473,37	Centro-Oeste
+491141	29*7*2019	Eduardo	Lombardi_Barros	Mato Grosso do Sul/Corumbá	Eletroportateis	LQ12/Liquidificador-5velocidades	827879284-588,82	Centro-Oeste
+774873	3*3*2019	Luiz_Henrique	Liberato_Duarte	Mato Grosso do Sul/Corumbá	                   Eletrônicos	TB47/Tablet-9,6pol	833331547-1471,23	Centro-Oeste
+189264	14*2*2019	Maria Alice	Vilela_Close	Mato Grosso do Sul/Dourados	         Eletrônicos	ST56/SmartTV-4k52pol	825993713-6074,38	Centro-Oeste
+307828	20*8*2019	Clara	Fagundes_Marques	Mato Grosso do Sul/Dourados	                   Eletrônicos	TB47/Tablet-9,6pol	860068458-1471,23	Centro-Oeste
+411598	8*4*2019	Emanuel	Medeiros_Marques	Mato Grosso do Sul/Dourados	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	888587172-1581,03	Centro-Oeste
+704894	23*8*2019	Ana_Laura	Ganzarolli_Bittencourt	Mato Grosso do Sul/Dourados	              Eletroportateis	FP32/Ferro de passar-500Wvapor	864284118-552,42	Centro-Oeste
+555454	28*8*2019	Marina	Schoemberger_Antunes	Mato Grosso do Sul/Ponta Porã	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	854747178-5899,36	Centro-Oeste
+773373	16*9*2019	Rafael	Rios_Fontenelle	Mato Grosso do Sul/Três Lagoas	        Eletrônicos	SP3X/Celular-4GB128GB	815286210-4821,03	Centro-Oeste
+367556	6*8*2019	Cecília	Lessa_Giácomo	Mato Grosso do Sul/Três Lagoas	          Eletrônicos	NT8F/Notebook-i55GB500GB	840785687-3582,23	Centro-Oeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+607274	23*10*2019	Esther	Arantes_Oliveira	Mato Grosso/Cuiabá	          Eletrônicos	NT9X/Notebook-i78GB1TB	829805833-4896,53	Centro-Oeste
+672744	30*10*2019	Sarah	Antunes_Vitti	Mato Grosso/Cuiabá	        Eletrônicos	SP3X/Celular-4GB128GB	825040173-4821,03	Centro-Oeste
+871593	3*3*2019	Lara	Chapelin_Santana	Mato Grosso/Cuiabá	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	827664677-2473,37	Centro-Oeste
+520480	28*7*2019	Daniel	Torres_Dieckmann	Mato Grosso/Cuiabá	Eletroportateis	LQ67/Liquidificador-3velocidades	821645135-302,01	Centro-Oeste
+843944	6*9*2019	Beatriz	Duarte_Müller	Mato Grosso/Cuiabá	              Eletroportateis	FP02/Ferro de passar-300Wvapor	865063897-134,72	Centro-Oeste
+201480	12*9*2019	Catarina	Ferraz_Moura	Mato Grosso/Rondonópolis	Eletroportateis	LQ67/Liquidificador-3velocidades	896960480-302,01	Centro-Oeste
+163279	7*11*2019	Bryan	Castro_Lafaiete	Mato Grosso/Rondonópolis	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	896138381-5899,36	Centro-Oeste
+368321	5*7*2019	Pedro Henrique	Gonçalves_Schoemberger	Mato Grosso/Rondonópolis	           Eletrodoméstico	52SB/Fogão-4Bocas220V	865190397-966,24	Centro-Oeste
+830578	2*9*2019	João Vitor	Marques_Trindade	Mato Grosso/Rondonópolis	       Eletrodoméstico	LR13/Lavadora-12kg110V	839451137-2675,99	Centro-Oeste
+194016	6*4*2019	Arthur	Moura_Bernardi	Mato Grosso/Sinop	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	820058643-2564,12	Centro-Oeste
+540623	27*6*2019	Helena	Arantes_Ferraz	Mato Grosso/Sinop	                   Eletroportateis	CF67/Cafeteira-convencional	841299719-105,51	Centro-Oeste
+516503	28*9*2019	Ana	Bongiovanni_Lombardi	Mato Grosso/Sinop	        Eletrônicos	SP3X/Celular-4GB128GB	864514926-4821,03	Centro-Oeste
+713700	13*10*2019	Murilo	Fischer_Gomes	Mato Grosso/Sinop	                   Eletroportateis	CF16/Cafeteira-smartCafe	875283807-552,5	Centro-Oeste
+153539	7*5*2019	Luiz_Henrique	Bial_Meneghel	Mato Grosso/Tangará da Serra	       Eletrodoméstico	LR13/Lavadora-12kg110V	878420194-2675,99	Centro-Oeste
+135738	24*5*2019	Luiz_Felipe	Boaventura_Lins	Mato Grosso/Tangará da Serra	                   Eletrônicos	TB7A/Tablet-7,5pol	842073822-844,65	Centro-Oeste
+812346	26*9*2019	Maria_Júlia	Sampaio_Martins	Mato Grosso/Tangará da Serra	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	820592538-2473,37	Centro-Oeste
+247924	10*10*2019	Isabelly	Moura_Lafaiete	Mato Grosso/Tangará da Serra	          Eletrônicos	NT8F/Notebook-i55GB500GB	839944105-3582,23	Centro-Oeste
+575344	4*1*2019	Beatriz	Duarte_Martins	Mato Grosso/Várzea Grande	        Eletrônicos	SP3X/Celular-4GB128GB	849625788-4821,03	Centro-Oeste
+144267	22*2*2019	Esther	Close_Albuquerque	Mato Grosso/Várzea Grande	                   Eletroportateis	CF16/Cafeteira-smartCafe	841892817-552,5	Centro-Oeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+560945	26*1*2019	Pedro	Riche_Carvalho	Para/Ananindeua	        Eletrônicos	SP3X/Celular-4GB128GB	899083985-4821,03	Norte
+215443	15*8*2019	Eduardo	Müller_Riche	Para/Belém	                   Eletroportateis	CF16/Cafeteira-smartCafe	878929773-552,5	Norte
+876173	6*10*2019	Ana Júlia	Close_Muniz	Para/Belém	                   Eletroportateis	CF67/Cafeteira-convencional	828548144-105,51	Norte
+465913	19*3*2019	Lorenzo	Müller_Evelyn	Para/Belém	                   Eletrônicos	TB7A/Tablet-7,5pol	885727403-844,65	Norte
+899454	13*12*2019	Rafael	Lessa_Rios	Para/Belém	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	815892576-5899,36	Norte
+105501	26*7*2019	Davi_Luiz	Schmütz_Bittencourt	Para/Marabá	           Eletrodoméstico	52SB/Fogão-4Bocas220V	848539434-966,24	Norte
+487481	24*12*2019	Yasmin	Gomes_Garcia	Para/Marabá	         Eletrônicos	ST88/SmartTV-FullHD32pol	823696370-3628,63	Norte
+666840	11*5*2019	Isabelly	Moscovis_Castiel	Para/Parauapebas	        Eletrônicos	SP3X/Celular-4GB128GB	827786709-4821,03	Norte
+886305	24*5*2019	Vicente	Timberg_Mazzaropi	Para/Parauapebas	                   Eletroportateis	CF16/Cafeteira-smartCafe	824832032-552,5	Norte
+387279	31*8*2019	Ana Beatriz	Dantas_Novaes	Para/Parauapebas	              Eletroportateis	FP32/Ferro de passar-500Wvapor	857649625-552,42	Norte
+524686	20*5*2019	Bianca	Barcelos_Cavalcante	Para/Parauapebas	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	832474948-5899,36	Norte
+183747	21*6*2019	Isadora	Gimenez_Riche	Para/Parauapebas	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	898776562-1467,6	Norte
+724233	8*12*2019	Alice	Fischer_Schumacher	Para/Parauapebas	        Eletrônicos	SP13/Celular-4G64GB	822746263-3028,9	Norte
+748682	14*12*2019	Ana_Laura	Santana_Góes	Para/Parauapebas	              Eletroportateis	FP32/Ferro de passar-500Wvapor	851303074-552,42	Norte
+825466	20*4*2019	Matheus	Dolabella_Barcelos	Para/Santarém	                   Eletrônicos	TB47/Tablet-9,6pol	842198235-1471,23	Norte
+135759	10*10*2019	Maria_Eduarda	Castiel_D’Ávila	Para/Santarém	                   Eletrônicos	TB47/Tablet-9,6pol	862470981-1471,23	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+725440	30*3*2019	Alice	Barcellos_Sampaio	Paraiba/Bayeux	          Eletrônicos	NT9X/Notebook-i78GB1TB	815864976-4896,53	Nordeste
+633811	16*6*2019	Maria_Júlia	Resende_Guimarães	Paraiba/Bayeux	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	859289135-2182,42	Nordeste
+358311	27*11*2019	Pietro	Schmütz_Gonçalves	Paraiba/Bayeux	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	814658220-5899,36	Nordeste
+649579	3*7*2019	Maria_Cecília	Annenberg_Assunção	Paraiba/Campina Grande	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	814440917-1467,6	Nordeste
+513207	9*8*2019	Lorena	Maldonado_Campos	Paraiba/Campina Grande	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	838681937-2182,42	Nordeste
+402788	24*4*2019	Eduardo	Carvalho_Moraes	Paraiba/João Pessoa	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	825377269-1467,6	Nordeste
+156554	25*2*2019	Sarah	Vasconcelos_Lessa	Paraiba/João Pessoa	          Eletrônicos	NT8F/Notebook-i55GB500GB	866236390-3582,23	Nordeste
+566658	12*4*2019	Ana	Guimarães_Moraes	Paraiba/Patos	        Eletrônicos	SP13/Celular-4G64GB	854555557-3028,9	Nordeste
+196113	10*2*2019	Manuela	Marques_Giácomo	Paraiba/Santa Rita	          Eletrônicos	NT8F/Notebook-i55GB500GB	875134959-3582,23	Nordeste
+509450	23*10*2019	Caio	Campos_Chapelin	Paraiba/Santa Rita	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	853011660-2473,37	Nordeste
+753389	23*6*2019	Sophia	Bongiovanni_Carvalho	Paraiba/Santa Rita	         Eletrônicos	ST56/SmartTV-4k52pol	819132338-6074,38	Nordeste
+460784	25*6*2019	Henrique	Muniz_Silverstone	Paraiba/Santa Rita	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	840180717-2182,42	Nordeste
+366805	6*7*2019	Vicente	Dolabella_Moraes	Paraiba/Santa Rita	                   Eletrônicos	TB7A/Tablet-7,5pol	868052829-844,65	Nordeste
+684698	3*11*2019	Davi_Miguel	Bial_Monteiro	Paraiba/Santa Rita	        Eletrônicos	SP13/Celular-4G64GB	846169194-3028,9	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+665778	12*11*2019	Maria_Eduarda	Muniz_Vargas	Pernambuco/Caruaru	              Eletroportateis	FP32/Ferro de passar-500Wvapor	889170965-552,42	Nordeste
+754254	15*11*2019	Samuel	Ribeiro_Maldonado	Pernambuco/Caruaru	         Eletrônicos	ST56/SmartTV-4k52pol	825544844-6074,38	Nordeste
+496816	5*12*2019	Emanuelly	Bastos_Castiel	Pernambuco/Caruaru	        Eletrônicos	SP13/Celular-4G64GB	814968529-3028,9	Nordeste
+255641	14*10*2019	João Miguel	Vilela_Roriz	Pernambuco/Jaboatão dos Guararapes	                   Eletroportateis	CF67/Cafeteira-convencional	851819991-105,51	Nordeste
+545679	15*10*2019	Ana Júlia	Annenberg_Kannenberg	Pernambuco/Jaboatão dos Guararapes	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	820656145-1581,03	Nordeste
+210981	20*11*2019	João Miguel	Menezes_Marques	Pernambuco/Jaboatão dos Guararapes	         Eletrônicos	ST56/SmartTV-4k52pol	815270505-6074,38	Nordeste
+513066	18*12*2019	Lorena	Maldonado_Boaventura	Pernambuco/Olinda	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	845391193-2182,42	Nordeste
+501954	28*1*2019	Vicente	Maldonado_Steves	Pernambuco/Petrolina	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	850699759-2473,37	Nordeste
+148650	21*6*2019	Maria Clara	Vilela_Martins	Pernambuco/Petrolina	          Eletrônicos	NT9X/Notebook-i78GB1TB	895402516-4896,53	Nordeste
+271612	27*3*2019	Pedro_novo	Alves_Barcelos	Pernambuco/Recife	         Eletrônicos	ST56/SmartTV-4k52pol	852314847-6074,38	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+363328	14*4*2019	Lucas	Medeiros_Ferrari	Piaui/Floriano	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	825679807-1581,03	Nordeste
+530781	27*7*2019	Enzo Gabriel	Menezes_Montenegro	Piaui/Floriano	          Eletrônicos	NT8F/Notebook-i55GB500GB	892184631-3582,23	Nordeste
+763924	8*1*2019	Yasmin	Johnson_Bittencourt	Piaui/Parnaíba	                   Eletroportateis	CF16/Cafeteira-smartCafe	827492596-552,5	Nordeste
+606114	22*4*2019	Giovanna	Castro_Cavalcante	Piaui/Parnaíba	                   Eletroportateis	CF67/Cafeteira-convencional	844669784-105,51	Nordeste
+648841	21*11*2019	Samuel	Cavalcante_Ganzarolli	Piaui/Parnaíba	       Eletrodoméstico	LR13/Lavadora-12kg110V	894523600-2675,99	Nordeste
+708972	10*11*2019	Maria	Gimenez_Arantes	Piaui/Parnaíba	         Eletrônicos	ST56/SmartTV-4k52pol	816007031-6074,38	Nordeste
+807733	26*4*2019	Enrico	Timberg_Martins	Piaui/Picos	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	879542786-5899,36	Nordeste
+740626	8*12*2019	Isabella	Moraes_Giácomo	Piaui/Picos	         Eletrônicos	ST56/SmartTV-4k52pol	876638831-6074,38	Nordeste
+410402	22*2*2019	Letícia	Maldonado_Schoemberger	Piaui/Picos	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	887692089-2473,37	Nordeste
+784075	7*3*2019	Rafael	Barros_Fernandes	Piaui/Picos	                   Eletrônicos	TB47/Tablet-9,6pol	829402136-1471,23	Nordeste
+139120	3*7*2019	Lorenzo	Fagundes_Fontenelle	Piaui/Picos	                   Eletrônicos	TB7A/Tablet-7,5pol	867951931-844,65	Nordeste
+577495	3*8*2019	Lucas	Castro_Reymond	Piaui/Picos	Eletroportateis	LQ12/Liquidificador-5velocidades	827269017-588,82	Nordeste
+551542	31*1*2019	Bernardo	Dieckmann_Barros	Piaui/Piripiri	                   Eletrônicos	TB7A/Tablet-7,5pol	858129883-844,65	Nordeste
+830446	28*4*2019	João Vitor	Vilela_Barros	Piaui/Piripiri	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	833390865-2182,42	Nordeste
+229723	14*4*2019	Melissa	Dolabella_Bernardi	Piaui/Teresina	         Eletrônicos	ST88/SmartTV-FullHD32pol	867433714-3628,63	Nordeste
+874524	24*6*2019	Cecília	Meneghel_Bonner	Piaui/Teresina	       Eletrodoméstico	LR13/Lavadora-12kg110V	845222052-2675,99	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+179803	20*6*2019	Maria_Cecília	Barros_Carvalho	Parana/Cascavel	       Eletrodoméstico	LR13/Lavadora-12kg110V	891821114-2675,99	Sul
+484039	13*10*2019	Emanuel	Chapelin_Alves	Parana/Cascavel	              Eletroportateis	FP02/Ferro de passar-300Wvapor	855520052-134,72	Sul
+806206	16*12*2019	Cecília	Lins_Bittencourt	Parana/Curitiba	         Eletrônicos	ST56/SmartTV-4k52pol	830426245-6074,38	Sul
+844836	28*4*2019	Lucas	Kannenberg_Bastos	Parana/Londrina	         Eletrônicos	ST56/SmartTV-4k52pol	847039167-6074,38	Sul
+199361	24*6*2019	Enzo Gabriel	Schmütz_Boaventura	Parana/Londrina	          Eletrônicos	NT9X/Notebook-i78GB1TB	818175528-4896,53	Sul
+901125	23*7*2019	Lívia	Johnson_Dieckmann	Parana/Londrina	                   Eletrônicos	TB7A/Tablet-7,5pol	895022399-844,65	Sul
+194176	4*12*2019	Heitor	Meneghel_Kannenberg	Parana/Londrina	         Eletrônicos	ST56/SmartTV-4k52pol	870788124-6074,38	Sul
+180655	18*6*2019	Vitória	Barcelos_Mazzaropi	Parana/Maringá	Eletroportateis	LQ12/Liquidificador-5velocidades	887147556-588,82	Sul
+369990	5*9*2019	Joaquim	Sheherazade_Barcellos	Parana/Maringá	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	829551798-2473,37	Sul
+565544	27*3*2019	Vitória	Fernandes_Santana	Parana/Ponta Grossa	                   Eletrônicos	TB7A/Tablet-7,5pol	878396535-844,65	Sul
+561328	3*6*2019	Pietro	Vilela_Ferraz	Parana/Ponta Grossa	       Eletrodoméstico	LR13/Lavadora-12kg110V	859406332-2675,99	Sul
+705801	9*6*2019	Cauã	Marinho_Drummond	Parana/Ponta Grossa	                   Eletroportateis	CF16/Cafeteira-smartCafe	846532866-552,5	Sul
+444240	14*10*2019	Enzo Gabriel	Gimenez_Gonçalves	Parana/Ponta Grossa	                   Eletrônicos	TB47/Tablet-9,6pol	827524833-1471,23	Sul
+827569	7*11*2019	Thomas	Bial_Marques	Parana/Ponta Grossa	          Eletrônicos	NT8F/Notebook-i55GB500GB	893458249-3582,23	Sul
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+687453	6*1*2019	Esther	Gonçalves_Vasconcelos	Rio de Janeiro/Duque de Caxias	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	842077412-2473,37	Sudeste
+206857	14*5*2019	Enzo Gabriel	Santana_Bernardi	Rio de Janeiro/Duque de Caxias	              Eletroportateis	FP32/Ferro de passar-500Wvapor	881511767-552,42	Sudeste
+167207	23*10*2019	Luiza	Duarte_Lambertini	Rio de Janeiro/Duque de Caxias	       Eletrodoméstico	LR13/Lavadora-12kg110V	874653505-2675,99	Sudeste
+248262	18*4*2019	Emanuelly	Kannenberg_Reymond	Rio de Janeiro/Nova Iguaçu	         Eletrônicos	ST88/SmartTV-FullHD32pol	844841938-3628,63	Sudeste
+112748	19*11*2019	Maria_Júlia	Monteiro_Muniz	Rio de Janeiro/Nova Iguaçu	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	832302982-2182,42	Sudeste
+712765	28*2*2019	Leonardo	Figueiredo_Cavalcante	Rio de Janeiro/Nova Iguaçu	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	823844756-2182,42	Sudeste
+749775	18*11*2019	Alice	Schoemberger_Gimenez	Rio de Janeiro/Nova Iguaçu	          Eletrônicos	NT8F/Notebook-i55GB500GB	858845217-3582,23	Sudeste
+691716	20*1*2019	Sophia	Lins_Bastos	Rio de Janeiro/Rio de Janeiro	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	895459452-1581,03	Sudeste
+829678	22*10*2019	Eduardo	Fernandes_Moura	Rio de Janeiro/Rio de Janeiro	        Eletrônicos	SP3X/Celular-4GB128GB	816759625-4821,03	Sudeste
+882654	8*11*2019	João	D’Ávila_Vargas	Rio de Janeiro/Rio de Janeiro	           Eletrodoméstico	52SB/Fogão-4Bocas220V	884354258-966,24	Sudeste
+910102	23*11*2019	Giovanna	Kannenberg_Barros	Rio de Janeiro/Rio de Janeiro	          Eletrônicos	NT9X/Notebook-i78GB1TB	847708571-4896,53	Sudeste
+113281	14*8*2019	Davi Lucca	Ferraz_Carvalho	Rio de Janeiro/Rio de Janeiro	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	814744911-2564,12	Sudeste
+399833	30*8*2019	Larissa	Arantes_Lombardi	Rio de Janeiro/Rio de Janeiro	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	886881715-1581,03	Sudeste
+752783	16*5*2019	Thiago	Mazzaropi_Hickmann	Rio de Janeiro/São Gonçalo	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	816157071-1581,03	Sudeste
+663610	4*2*2019	João Pedro	Arantes_Carvalho	Rio de Janeiro/São Gonçalo	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	871352872-2473,37	Sudeste
+621666	11*6*2019	Maria_Clara	Bittencourt_Marques	Rio de Janeiro/São Gonçalo	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	871318943-2473,37	Sudeste
+558338	4*7*2019	Maria_Cecília	Cavalcante_Bonner	Rio de Janeiro/São Gonçalo	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	815010024-2182,42	Sudeste
+389044	8*9*2019	Heitor	Schumacher_Schumacher	Rio de Janeiro/São Gonçalo	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	852083959-1581,03	Sudeste
+540514	30*11*2019	Enrico	Ferrari_Liberato	Rio de Janeiro/São Gonçalo	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	847105101-2564,12	Sudeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+772889	24*8*2019	Henrique	Silverstone_Fischer	Rio Grande do Norte/Macaíba	                   Eletroportateis	CF16/Cafeteira-smartCafe	859780322-552,5	Nordeste
+875341	20*1*2019	Lucca	Duarte_Vasconcelos	Rio Grande do Norte/Mossoró	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	856323737-1581,03	Nordeste
+284497	9*5*2019	Maria Fernanda	Moraes_Gimenez	Rio Grande do Norte/Mossoró	          Eletrônicos	NT9X/Notebook-i78GB1TB	841978432-4896,53	Nordeste
+847782	8*6*2019	Cecília	Alves_Gomes	Rio Grande do Norte/Mossoró	              Eletroportateis	FP02/Ferro de passar-300Wvapor	844576223-134,72	Nordeste
+408770	5*9*2019	Vitória	Mazzaropi_Carvalho	Rio Grande do Norte/Mossoró	                   Eletrônicos	TB7A/Tablet-7,5pol	848992444-844,65	Nordeste
+216835	2*2*2019	João Miguel	Gonçalves_Antunes	Rio Grande do Norte/Natal	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	884704660-1581,03	Nordeste
+701452	5*5*2019	Maria	Góes_Kannenberg	Rio Grande do Norte/Natal	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	855900582-2473,37	Nordeste
+325355	8*6*2019	Rebeca	Kannenberg_Schoemberger	Rio Grande do Norte/Natal	              Eletroportateis	FP32/Ferro de passar-500Wvapor	875085931-552,42	Nordeste
+863583	16*9*2019	Davi Lucca	Kannenberg_Sampaio	Rio Grande do Norte/Natal	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	857165474-2473,37	Nordeste
+818785	23*9*2019	Antônio	Reymond_Figueiredo	Rio Grande do Norte/Natal	                   Eletrônicos	TB7A/Tablet-7,5pol	888121766-844,65	Nordeste
+271783	13*5*2019	Marina	Muniz_Bittencourt	Rio Grande do Norte/Parnamirim	           Eletrodoméstico	52SB/Fogão-4Bocas220V	820704482-966,24	Nordeste
+300251	4*6*2019	Sophia	Oliveira_Müller	Rio Grande do Norte/Parnamirim	                   Eletrônicos	TB47/Tablet-9,6pol	870852723-1471,23	Nordeste
+133484	27*9*2019	Bryan	Alencar_Gimenez	Rio Grande do Norte/Parnamirim	Eletroportateis	LQ12/Liquidificador-5velocidades	866254815-588,82	Nordeste
+667401	5*10*2019	Benjamin	Schmütz_Werneck	Rio Grande do Norte/Parnamirim	              Eletroportateis	FP02/Ferro de passar-300Wvapor	825149395-134,72	Nordeste
+829614	21*12*2019	Maria_Clara	Bernardi_Barros	Rio Grande do Norte/Parnamirim	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	844693805-2473,37	Nordeste
+646414	4*9*2019	Helena	Sanches_Schoemberger	Rio Grande do Norte/São Gonçalo do Amarante	Eletroportateis	LQ12/Liquidificador-5velocidades	831423251-588,82	Nordeste
+716122	24*12*2019	Lívia	Guimarães_Mazzaropi	Rio Grande do Norte/São Gonçalo do Amarante	         Eletrônicos	ST88/SmartTV-FullHD32pol	885464494-3628,63	Nordeste
+418076	27*10*2019	Arthur_Miguel	Moscovis_Evelyn	Rio Grande do Norte/São Gonçalo do Amarante	         Eletrônicos	ST88/SmartTV-FullHD32pol	852365266-3628,63	Nordeste
+802084	25*12*2019	Davi Lucas	Trindade_Fagundes	Rio Grande do Norte/São Gonçalo do Amarante	        Eletrônicos	SP3X/Celular-4GB128GB	889724449-4821,03	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+730016	17*12*2019	Catarina	Santana_Steves	Rondonia/Ariquemes	                   Eletroportateis	CF16/Cafeteira-smartCafe	894266504-552,5	Norte
+643989	28*3*2019	Maria Alice	Góes_Garcia	Rondonia/Ariquemes	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	835034039-2182,42	Norte
+345561	5*6*2019	Bianca	Bonner_Bongiovanni	Rondonia/Ariquemes	Eletroportateis	LQ67/Liquidificador-3velocidades	818056254-302,01	Norte
+602079	7*9*2019	Cecília	Gomes_Lins	Rondonia/Cacoal	           Eletrodoméstico	52SB/Fogão-4Bocas220V	866815633-966,24	Norte
+146550	18*9*2019	Maria_Cecília	Falabella_Vilela	Rondonia/Cacoal	              Eletroportateis	FP02/Ferro de passar-300Wvapor	869407990-134,72	Norte
+557596	29*11*2019	Eduardo	Oliveira_Alves	Rondonia/Cacoal	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	881011356-2564,12	Norte
+618881	18*8*2019	Thomas	Alencar_Silverstone	Rondonia/Ji-Paraná	Eletroportateis	LQ67/Liquidificador-3velocidades	866252404-302,01	Norte
+222747	13*12*2019	João Miguel	Boaventura_Reymond	Rondonia/Ji-Paraná	         Eletrônicos	ST88/SmartTV-FullHD32pol	882266579-3628,63	Norte
+212730	4*1*2019	Lara	Figueiredo_Giácomo	Rondonia/Porto Velho	         Eletrônicos	ST56/SmartTV-4k52pol	895151787-6074,38	Norte
+681965	4*2*2019	Victor_Hugo	Torres_Campos	Rondonia/Porto Velho	          Eletrônicos	NT9X/Notebook-i78GB1TB	828412894-4896,53	Norte
+716499	12*3*2019	Alice	Barcellos_Lessa	Rondonia/Porto Velho	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	883943119-1467,6	Norte
+602071	28*1*2019	Cauã	Vilela_Ferrari	Rondonia/Porto Velho	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	846659400-2182,42	Norte
+323942	8*3*2019	Maria_Júlia	Falabella_Góes	Rondonia/Porto Velho	Eletroportateis	LQ67/Liquidificador-3velocidades	893909564-302,01	Norte
+895373	31*7*2019	Rafael	Fischer_Sampaio	Rondonia/Porto Velho	                   Eletroportateis	CF67/Cafeteira-convencional	870629554-105,51	Norte
+257557	6*8*2019	Ana_Luiza	Bial_Riche	Rondonia/Porto Velho	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	840872062-1581,03	Norte
+627790	18*2*2019	Enzo	Rios_Lombardi	Rondonia/Vilhena	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	861451231-2473,37	Norte
+538329	31*3*2019	Catarina	Lessa_Drummond	Rondonia/Vilhena	              Eletroportateis	FP02/Ferro de passar-300Wvapor	874497663-134,72	Norte
+251744	22*10*2019	Leonardo	Timberg_Resende	Rondonia/Vilhena	                   Eletrônicos	TB7A/Tablet-7,5pol	834344638-844,65	Norte
+849232	28*10*2019	Maria Alice	Lombardi_Lafaiete	Rondonia/Vilhena	           Eletrodoméstico	52SB/Fogão-4Bocas220V	823178112-966,24	Norte
+110357	31*8*2019	Larissa	Martins_Martins	Rondonia/Vilhena	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	860595588-5899,36	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+821674	5*9*2019	Joaquim	Lombardi_Barcelos	Roraima/Alto Alegre	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	834593508-2182,42	Norte
+297807	29*3*2019	Maria_Clara	Steves_Ribeiro	Roraima/Alto Alegre	              Eletroportateis	FP32/Ferro de passar-500Wvapor	892032874-552,42	Norte
+768682	24*7*2019	Arthur	Gomes_Johnson	Roraima/Alto Alegre	        Eletrônicos	SP3X/Celular-4GB128GB	835247603-4821,03	Norte
+777869	11*9*2019	Maria Alice	Giácomo_Ferraz	Roraima/Alto Alegre	           Eletrodoméstico	52SB/Fogão-4Bocas220V	884028975-966,24	Norte
+577107	12*11*2019	João	Lombardi_Lessa	Roraima/Alto Alegre	        Eletrônicos	SP13/Celular-4G64GB	823636259-3028,9	Norte
+138661	21*2*2019	Luiz_Miguel	Rios_Bastos	Roraima/Boa Vista	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	885740573-2564,12	Norte
+628074	4*12*2019	Davi Lucas	Hickmann_Vilela	Roraima/Caracaraí	          Eletrônicos	NT8F/Notebook-i55GB500GB	860824134-3582,23	Norte
+668758	19*4*2019	Ana	Menezes_Alves	Roraima/Caracaraí	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	833410902-2473,37	Norte
+362375	16*1*2019	Antônio	Roriz_Noronha	Roraima/Mucajaí	          Eletrônicos	NT8F/Notebook-i55GB500GB	876237991-3582,23	Norte
+894587	1*3*2019	Beatriz	Campos_Barcellos	Roraima/Mucajaí	        Eletrônicos	SP3X/Celular-4GB128GB	833345947-4821,03	Norte
+418175	31*5*2019	Lorenzo	Abravanel_Figueiredo	Roraima/Mucajaí	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	891316038-1581,03	Norte
+131449	20*5*2019	Davi_Luiz	Garcia_Lafaiete	Roraima/Mucajaí	         Eletrônicos	ST88/SmartTV-FullHD32pol	887020308-3628,63	Norte
+693979	29*10*2019	Victor_Hugo	Dolabella_Bastos	Roraima/Rorainópolis	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	863298156-2473,37	Norte
+138029	10*5*2019	Enzo	Trindade_Steves	Roraima/Rorainópolis	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	846242160-2473,37	Norte
+747901	18*9*2019	Maria Clara	Silverstone_Guimarães	Roraima/Rorainópolis	       Eletrodoméstico	LR13/Lavadora-12kg110V	894275335-2675,99	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+686067	11*1*2019	Lavínia	Figueiredo_Carvalho	Rio Grande do Sul/Canoas	Eletroportateis	LQ12/Liquidificador-5velocidades	862632884-588,82	Sul
+231413	7*6*2019	Eduardo	Drummond_Moraes	Rio Grande do Sul/Caxias do Sul	        Eletrônicos	SP3X/Celular-4GB128GB	863804387-4821,03	Sul
+208102	21*2*2019	João Vitor	Moscovis_Duarte	Rio Grande do Sul/Pelotas	        Eletrônicos	SP3X/Celular-4GB128GB	830218068-4821,03	Sul
+761226	7*7*2019	Luiza	Castro_Riche	Rio Grande do Sul/Pelotas	              Eletroportateis	FP32/Ferro de passar-500Wvapor	839453601-552,42	Sul
+141274	6*8*2019	Davi Lucas	Silverstone_Martins	Rio Grande do Sul/Pelotas	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	837878712-2564,12	Sul
+660621	23*7*2019	Luiz_Gustavo	Bittencourt_Cavalcante	Rio Grande do Sul/Porto Alegre	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	856735061-2182,42	Sul
+187269	8*9*2019	Davi_Miguel	Müller_Johnson	Rio Grande do Sul/Porto Alegre	          Eletrônicos	NT8F/Notebook-i55GB500GB	880558282-3582,23	Sul
+640406	29*1*2019	Sophia	Trindade_Carvalho	Rio Grande do Sul/Porto Alegre	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	895644933-2473,37	Sul
+874026	7*5*2019	Lavínia	Muniz_Moscovis	Rio Grande do Sul/Porto Alegre	Eletroportateis	LQ67/Liquidificador-3velocidades	895390027-302,01	Sul
+542469	19*10*2019	Davi	Marinho_Lins	Rio Grande do Sul/Porto Alegre	       Eletrodoméstico	LR13/Lavadora-12kg110V	879111340-2675,99	Sul
+838166	29*12*2019	Joaquim	Garcia_Werneck	Rio Grande do Sul/Porto Alegre	           Eletrodoméstico	52SB/Fogão-4Bocas220V	899363431-966,24	Sul
+911309	5*2*2019	Arthur_Miguel	Garcia_Lambertini	Rio Grande do Sul/Santa Maria	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	826528786-1467,6	Sul
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+347777	1*11*2019	Isaac	Schmütz_Ferrari	Santa Catarina/Blumenau	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	835667163-1581,03	Sul
+675630	7*1*2019	João Lucas	Antunes_Carvalho	Santa Catarina/Blumenau	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	870931723-2473,37	Sul
+409699	13*2*2019	Lorena	Rios_Campos	Santa Catarina/Blumenau	                   Eletroportateis	CF16/Cafeteira-smartCafe	860835338-552,5	Sul
+203294	9*3*2019	Bernardo	Resende_Giácomo	Santa Catarina/Blumenau	Eletroportateis	LQ67/Liquidificador-3velocidades	845717454-302,01	Sul
+324322	13*2*2019	João Vitor	Moura_Castro	Santa Catarina/Criciúma	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	858459793-1581,03	Sul
+311498	10*3*2019	Luiza	Martins_Trindade	Santa Catarina/Criciúma	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	867593452-5899,36	Sul
+686898	16*4*2019	Giovanna	Menezes_Arantes	Santa Catarina/Criciúma	                   Eletroportateis	CF67/Cafeteira-convencional	888298251-105,51	Sul
+567464	27*7*2019	Benício	Boaventura_Albuquerque	Santa Catarina/Criciúma	                   Eletroportateis	CF67/Cafeteira-convencional	816913914-105,51	Sul
+500480	3*8*2019	Giovanna	Lafaiete_Gimenez	Santa Catarina/Florianópolis	        Eletrônicos	SP13/Celular-4G64GB	866910322-3028,9	Sul
+590843	13*8*2019	Emanuelly	Carvalho_Noronha	Santa Catarina/Florianópolis	              Eletroportateis	FP32/Ferro de passar-500Wvapor	888886879-552,42	Sul
+552815	14*11*2019	Pedro	Martins_Barros	Santa Catarina/Florianópolis	Eletroportateis	LQ67/Liquidificador-3velocidades	828422139-302,01	Sul
+140099	13*1*2019	Letícia	Moscovis_Fagundes	Santa Catarina/Florianópolis	         Eletrônicos	ST56/SmartTV-4k52pol	863098066-6074,38	Sul
+488199	18*3*2019	Francisco	Timberg_Ferraz	Santa Catarina/Florianópolis	Eletroportateis	LQ67/Liquidificador-3velocidades	859979726-302,01	Sul
+413753	12*4*2019	Heitor	Sheherazade_Steves	Santa Catarina/Florianópolis	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	873574669-2182,42	Sul
+274668	7*12*2019	Vitor	Cavalcante_Guimarães	Santa Catarina/Joinville	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	878214769-2564,12	Sul
+694828	12*6*2019	Melissa	Ribeiro_Dieckmann	Santa Catarina/Joinville	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	851662777-2564,12	Sul
+424591	18*4*2019	Gustavo	Figueiredo_Vasconcelos	Santa Catarina/São José	        Eletrônicos	SP13/Celular-4G64GB	890419218-3028,9	Sul
+124244	22*4*2019	Enrico	Marques_Andrade	Santa Catarina/São José	        Eletrônicos	SP13/Celular-4G64GB	865520677-3028,9	Sul
+106441	11*10*2019	Emanuelly	Albuquerque_Ferrari	Santa Catarina/São José	          Eletrônicos	NT8F/Notebook-i55GB500GB	853592247-3582,23	Sul
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+636673	6*6*2019	Nicolas	Bastos_Gimenez	Sergipe/Aracaju	       Eletrodoméstico	LR13/Lavadora-12kg110V	816263732-2675,99	Nordeste
+453568	26*3*2019	Pedro_Lucas	Lombardi_Ribeiro	Sergipe/Aracaju	                   Eletroportateis	CF16/Cafeteira-smartCafe	842561888-552,5	Nordeste
+824561	14*2*2019	Marina	Lins_Annenberg	Sergipe/Itabaiana	        Eletrônicos	SP13/Celular-4G64GB	829234659-3028,9	Nordeste
+803166	25*11*2019	Ana Beatriz	Evelyn_Assunção	Sergipe/Itabaiana	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	867090891-1581,03	Nordeste
+795275	18*3*2019	Beatriz	Roriz_Cavalcante	Sergipe/Itabaiana	Eletroportateis	LQ12/Liquidificador-5velocidades	831172463-588,82	Nordeste
+318450	26*11*2019	Pedro	Vitti_Bittencourt	Sergipe/Itabaiana	                   Eletroportateis	CF67/Cafeteira-convencional	836755075-105,51	Nordeste
+494349	17*7*2019	Lavínia	Drummond_Campos	Sergipe/Lagarto	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	825216258-1467,6	Nordeste
+506435	7*10*2019	Maria_Eduarda	Giácomo_Lins	Sergipe/Lagarto	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	878140302-2182,42	Nordeste
+360063	18*6*2019	Maria Fernanda	Campos_Ribeiro	Sergipe/Lagarto	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	855217785-1467,6	Nordeste
+893554	7*9*2019	Esther	Hickmann_Lafaiete	Sergipe/Lagarto	        Eletrônicos	SP3X/Celular-4GB128GB	824771419-4821,03	Nordeste
+854909	14*12*2019	Miguel	Hickmann_Dantas	Sergipe/Lagarto	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	871171370-1467,6	Nordeste
+806080	14*3*2019	Enrico	Gonçalves_Ribeiro	Sergipe/Nossa Senhora do Socorro	          Eletrônicos	NT8F/Notebook-i55GB500GB	870458757-3582,23	Nordeste
+397870	26*5*2019	Maria_Luiza	Castiel_Bernardi	Sergipe/Nossa Senhora do Socorro	              Eletroportateis	FP02/Ferro de passar-300Wvapor	862338674-134,72	Nordeste
+477552	3*11*2019	Sarah	Moraes_Barcelos	Sergipe/Nossa Senhora do Socorro	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	892253965-2473,37	Nordeste
+853462	6*1*2019	Maria	Sheherazade_Garcia	Sergipe/São Cristovão	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	864201459-1467,6	Nordeste
+422906	1*12*2019	João Pedro	Kannenberg_Schmütz	Sergipe/São Cristovão	              Eletroportateis	FP02/Ferro de passar-300Wvapor	833194571-134,72	Nordeste
+266972	11*4*2019	Maria Luiza	Bongiovanni_Mazzaropi	Sergipe/São Cristovão	              Eletroportateis	FP02/Ferro de passar-300Wvapor	896207449-134,72	Nordeste
+771914	18*5*2019	Matheus	Carvalho_Carvalho	Sergipe/São Cristovão	         Eletrônicos	ST88/SmartTV-FullHD32pol	830193258-3628,63	Nordeste
+277841	8*8*2019	Nicole	Cavalcante_Sanches	Sergipe/São Cristovão	                   Eletrônicos	TB7A/Tablet-7,5pol	878885812-844,65	Nordeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+273361	29*8*2019	Isaac	Sampaio_Ferraz	Sao Paulo/Campinas	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	863037350-5899,36	Sudeste
+370358	3*9*2019	Murilo	Resende_Ferrari	Sao Paulo/Campinas	              Eletroportateis	FP32/Ferro de passar-500Wvapor	868159312-552,42	Sudeste
+170291	5*10*2019	Isabella	Monteiro_Riche	Sao Paulo/Campinas	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	859569627-2182,42	Sudeste
+167051	22*11*2019	Sophia	Bongiovanni_Kannenberg	Sao Paulo/Campinas	          Eletrônicos	NT8F/Notebook-i55GB500GB	878679088-3582,23	Sudeste
+721552	20*2*2019	Antônio	Maldonado_Barros	Sao Paulo/Campinas	          Eletrônicos	NT8F/Notebook-i55GB500GB	846261401-3582,23	Sudeste
+367062	2*7*2019	Lavínia	Trindade_Roriz	Sao Paulo/Campinas	             Eletrodoméstico	AC12/Ar condicionado-12000BTUSplit	835605950-2182,42	Sudeste
+134756	8*8*2019	Maria_Alice	Johnson_Evelyn	Sao Paulo/Guarulhos	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	820099749-1467,6	Sudeste
+451923	15*12*2019	Mariana	Moura_Bonner	Sao Paulo/Guarulhos	                   Eletroportateis	CF67/Cafeteira-convencional	884069951-105,51	Sudeste
+328203	29*9*2019	Nicolas	Gonçalves_Kannenberg	Sao Paulo/São Bernardo do Campo	Eletroportateis	LQ67/Liquidificador-3velocidades	825107185-302,01	Sudeste
+552516	13*10*2019	Enzo	Fernandes_Schmütz	Sao Paulo/São Bernardo do Campo	        Eletrônicos	SP13/Celular-4G64GB	865093551-3028,9	Sudeste
+821420	14*4*2019	Alícia	Bongiovanni_Ganzarolli	Sao Paulo/São Bernardo do Campo	              Eletroportateis	FP32/Ferro de passar-500Wvapor	886853500-552,42	Sudeste
+321090	9*6*2019	Murilo	Antunes_D’Ávila	Sao Paulo/São Bernardo do Campo	          Eletrônicos	NT9X/Notebook-i78GB1TB	885420992-4896,53	Sudeste
+884475	7*12*2019	Esther	Abravanel_Vitti	Sao Paulo/São Bernardo do Campo	        Eletrônicos	SP13/Celular-4G64GB	836641879-3028,9	Sudeste
+768730	25*5*2019	Alícia	Gimenez_Bastos	Sao Paulo/São Paulo	                   Eletrônicos	TB47/Tablet-9,6pol	888438117-1471,23	Sudeste
+532104	21*7*2019	Guilherme	Timberg_Silverstone	Sao Paulo/São Paulo	        Eletrônicos	SP3X/Celular-4GB128GB	826281669-4821,03	Sudeste
+602313	2*1*2019	Thomas	Hickmann_Reymond	Sao Paulo/São Paulo	Eletroportateis	LQ67/Liquidificador-3velocidades	890977372-302,01	Sudeste
+293471	16*7*2019	Heitor	Drummond_Trindade	Sao Paulo/São Paulo	           Eletrodoméstico	52SB/Fogão-4Bocas220V	876719242-966,24	Sudeste
+109402	10*8*2019	Thomas	Vargas_Assunção	Sao Paulo/São Paulo	                   Eletrônicos	TB47/Tablet-9,6pol	888929594-1471,23	Sudeste
+520915	14*7*2019	Bryan	Bastos_Monteiro	Sao Paulo/São Paulo	                   Eletrônicos	TB7A/Tablet-7,5pol	861275512-844,65	Sudeste
+262593	5*10*2019	Gustavo	Oliveira_Arantes	Sao Paulo/São Paulo	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	825834030-1467,6	Sudeste
+668634	11*8*2019	Eduardo	Antunes_Lombardi	Sao Paulo/São Paulo	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	818979047-2473,37	Sudeste
+460524	1*7*2019	Gustavo	Torres_Gonçalves	Sao Paulo/São Paulo	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	858720716-1467,6	Sudeste
+396978	18*10*2019	Vinicius	Monteiro_Lambertini	Sao Paulo/São Paulo	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	879131086-2473,37	Sudeste
+*********	*********	*********	*********	*********	*********	*********	*********	*********
+671404	4*2*2019	Heitor	Menezes_Arantes	Tocantins/Araguaína	           Eletrodoméstico	CFO4/Fogão-6Bocas110V	856052521-1467,6	Norte
+735993	6*2*2019	Pietro	Trindade_Castro	Tocantins/Araguaína	                   Eletroportateis	CF67/Cafeteira-convencional	859583134-105,51	Norte
+192904	6*5*2019	Felipe	Novaes_Barcellos	Tocantins/Araguaína	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	859087940-2473,37	Norte
+804991	29*5*2019	Enzo	Giácomo_Trindade	Tocantins/Araguaína	                 Eletrodoméstico	C45L/Refrigerador-450litrosFros	871913378-2473,37	Norte
+195672	7*8*2019	Benício	Chapelin_D’Ávila	Tocantins/Araguaína	       Eletrodoméstico	LR79/Lavadora-7kgBiVolt	842405536-2564,12	Norte
+433019	4*3*2019	Laura	Timberg_Moscovis	Tocantins/Gurupi	       Eletrodoméstico	LR13/Lavadora-12kg110V	829438252-2675,99	Norte
+481690	10*7*2019	João	Barcellos_Figueiredo	Tocantins/Gurupi	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	871635849-5899,36	Norte
+552305	20*7*2019	Murilo	Vasconcelos_Trindade	Tocantins/Gurupi	         Eletrônicos	ST88/SmartTV-FullHD32pol	853705244-3628,63	Norte
+475568	19*7*2019	João Vitor	Close_Gonçalves	Tocantins/Palmas	             Eletrodoméstico	AC75/Ar condicionado-7500BTUSplit	847158487-1581,03	Norte
+844899	29*1*2019	Benjamin	Drummond_Rios	Tocantins/Paraíso do Tocantins	           Eletrodoméstico	52SB/Fogão-4Bocas220V	813818811-966,24	Norte
+608526	8*10*2019	Maria Fernanda	Monteiro_Marques	Tocantins/Paraíso do Tocantins	              Eletroportateis	FP32/Ferro de passar-500Wvapor	897987873-552,42	Norte
+262207	2*2*2019	Rafael	Liberato_Barros	Tocantins/Porto Nacional	              Eletroportateis	FP02/Ferro de passar-300Wvapor	829937163-134,72	Norte
+449951	4*3*2019	Caio	Resende_Gonçalves	Tocantins/Porto Nacional	       Eletrodoméstico	LR13/Lavadora-12kg110V	891669252-2675,99	Norte
+675806	3*9*2019	Lívia	Steves_Reymond	Tocantins/Porto Nacional	         Eletrônicos	ST88/SmartTV-FullHD32pol	828386892-3628,63	Norte
+257059	11*9*2019	Leonardo	Schumacher_Annenberg	Tocantins/Porto Nacional	                 Eletrodoméstico	B30L/Refrigerador-330LBranco	848320098-5899,36	Norte
+877719	21*9*2019	Davi_Miguel	Bernardi_Schumacher	Tocantins/Porto Nacional	        Eletrônicos	SP13/Celular-4G64GB	879932671-3028,9	Norte
+*********	*********	*********	*********	*********	*********	*********	*********	*********
