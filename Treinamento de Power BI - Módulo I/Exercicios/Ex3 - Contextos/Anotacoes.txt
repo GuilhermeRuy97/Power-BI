@@ -1,0 +1,10 @@
+A coluna calculada esta como "coluna calculada do mal", pois uma coluna calculada é um grande "ladrão" de performance
+Em vez disso, utilizamos as funções iterantes, que são funções da familia X (terminadas em X).
+Por ex, SUMX() fará um calculo linha a linha antes de somar a coluna.
+ = SUMX(<Tabela>, <Expressão>)
+
+Ex. Vlr Vendas Tot 2 = SUMX(fVendas, fVendas[Quantidade]*fVendas[Vlr Unitário])
+, onde o primeiro parâmetro é uma tabela e o segundo é a expressão que deverá ser feita antes da soma.
+
+*A principal vantagem é a de que o calculo é materializado virtualmente e não é colocado na base.
+Um exemplo se função iterante seria a AVERAGEX(<tabela>, <expressao>)

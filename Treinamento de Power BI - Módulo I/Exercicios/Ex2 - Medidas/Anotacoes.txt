@@ -1,0 +1,30 @@
+Medida implícita
+
+Uma medida implícita acontece quando ao arrastamos uma medida para a visualização e uma "conta" é realizada automaticament.
+Por ex,
+ao arrastar o valor liquido para a visualização, a conta de sum() de todos os valores é exibida automaticamente.
+*Lembrando que não é possível fazer calculos, como por exemplo, dividir a medida implicita valor liquido pela medida implicita valor bruto, para isso precisariamos fazer uma medida explicita.
+
+
+Medida explicita
+
+Podemos criar a função que precisamos através das funções do DAX (data analysis expressions).
+Por ex, somando as colunas do valor líquido para obter o total:
+.valorLíquido = SUM(fVendas[Valor Líquido])
+Para fazer o calculo com as variaveis criadas, usa-se colchetes:
+Por ex,
+.Margem = [.Soma Valor Líquido Explicito] / [.Soma Valor Bruto Explicito]
+*Lembrando que os nomes de variáveis são livres, podendo conter caracteres especiais e espaço.
+*O "." no começo serve para colocar a variável em cima na parte de visualização de variáveis.
+*Medidas explicitas não herdam formatação (com exceção do tipo moeda), ou seja, é necessário reformatar os dados da soma da coluna valor líquido após o calculo.
+
+
+*Dica: Mesmo que seja um calculo simples, prefira utilizar a medida explicita.
+
+
+Filtro
+
+Podemos filtrar os valores a partir de um campo.
+Por ex,
+filtrar os valores dos valores liquidos por produto.
+

@@ -1,0 +1,5 @@
+Repare que na hora de abrir os dados, os desenhos das tabelas são diferentes. O com a faixa azul é o objeto tabela, o outro é o objeto planilha.
+Quando tivermos este objeto tabela, daremos preferência a ele, pois ele só retorna os dados das tabelas, ignorando comentários etc.
+
+Podemos fazer as contas quando os ID's dos produtos forem diferentes, por ex:
+.Ticket Médio = [.Arrecado] / DISTINCTCOUNT(Vendas[ID Venda])
