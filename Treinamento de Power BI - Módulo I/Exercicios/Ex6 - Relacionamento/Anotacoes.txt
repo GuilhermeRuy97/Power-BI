@@ -1,0 +1,17 @@
+Tabela Fato x Tabela Dimensão
+
+A tabela fato é onde registramos os eventos que estamos monitorando, como vendas realizadas, chamado de manutenção etc.
+Esta tabela tem uma característica quantitativa, como a quantidade de produtos em uma venda.
+
+O que descreve os fatos (da características) estão centralizados em tabelas de dimensão, por exemplo, uma tabela
+com os dados do vendedor, como matrícula, nome, idade e nível (jr, senior etc).
+
+Como uma boa prática, colocamos a letra f na frente de uma tabela fato, por ex, fVendas.
+O mesmo vale para a tabela dimensão, por ex, dProdutos.
+
+Para trazermos um valor de outra tabela para uma tabela, utilizamos a função RELATED.
+Para fazê-lo, é necessário criar o modelo entre as tabelas primeiro.
+Ex,
+Vlr unitario do Mal = RELATED(dProdutos[Vlr])
+Ex2,
+.Arrecadação = SUMX(fVendas, fVendas[Quantidade] * RELATED(dProdutos[Vlr])

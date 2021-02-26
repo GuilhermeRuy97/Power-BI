@@ -1,0 +1,12 @@
+A data inicial será a data mais antiga da tabela fluxo:
+List.min(Fonte)
+
+A quantidade de datas será feita através de um cálculo entre a data inicial e final da tabela fluxo:
+Number.From(List.Max(Fonte) - List.Min(Fonte)) + 1
+
+
+E chegamos na seguinte fórmula (com a lista de datas únicas e sequenciais):
+= List.Dates(List.Min(Fonte), Number.From(List.Max(Fonte) - List.Min(Fonte)) + 1, #duration(1,0,0,0))
+
+Para calcular o Saldo, utilizamos a função CALCULATE, ex:
+ = CALCULATE( [Expressão] ; [Filtros] )

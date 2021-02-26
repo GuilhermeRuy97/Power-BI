@@ -1,0 +1,3 @@
+Para não "pesar" mais o projeto com consultas que nao serão mais usadas, clica-se com o lado direito e deseleciona-se a opção Habilitar Carga.
+
+É aconselhável trocar o tipo de uma coluna de indefnido para o tipo dela, por exemplo, texto. Pois o tipo indefinido é o mais pesado deles.
